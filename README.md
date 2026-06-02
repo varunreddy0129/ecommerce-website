@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Website
+# 🛒 E-Commerce Web Application 
 
 A modern and responsive E-Commerce web application built using React and Vite. This project provides a seamless shopping experience where users can browse products, view product details, manage their cart, and proceed through a checkout workflow.
 
