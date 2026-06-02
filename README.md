@@ -200,25 +200,29 @@ Add screenshots here after uploading them.
 ### Home Page
 
 ```md
-![Home Page](screenshots/home.png)
+![Home Page](<img width="1896" height="1033" alt="image" src="https://github.com/user-attachments/assets/73d70040-6963-4252-b7b3-c3b50d41eb08" />
+)
 ```
 
 ### Product Details
 
 ```md
-![Product Details](screenshots/product-details.png)
+![Product Details](<img width="1442" height="763" alt="image" src="https://github.com/user-attachments/assets/47c2386b-5e33-4f3d-aa43-26f8f97b0ad1" />
+)
 ```
 
 ### Cart Page
 
 ```md
-![Cart Page](screenshots/cart.png)
+![Cart Page](<img width="1395" height="900" alt="image" src="https://github.com/user-attachments/assets/1aeae413-18e8-46b5-8661-f0e253fb27bf" />
+)
 ```
 
 ### Checkout Page
 
 ```md
-![Checkout Page](screenshots/checkout.png)
+![Checkout Page](<img width="1455" height="966" alt="image" src="https://github.com/user-attachments/assets/a7b62e9e-4aa9-4a70-b7d0-9c380e71e5a6" />
+)
 ```
 
 ---
